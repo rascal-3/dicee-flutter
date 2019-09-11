@@ -1,0 +1,4 @@
+#Tue Sep 10 00:36:34 JST 2019
+base.0=/Users/Rascal/AndroidStudioProjects/dicee-flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
